@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "Elandor\/シニスター#2225",
+        "version": "1.0.0",
+        "name": "Leviathan (Obey me)"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/839514436863787099\/1008648247004385360\/d4adcb4f9def2928647ff09e6c4a502189cc0da11280.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "active_channel": 1892971025,
+        "background_secondary": 1056964608,
+        "accent": -12762716,
+        "mention_highlight": 614757949
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -10914310,
+        "link": -616130,
+        "primary_dark_200": -10916358,
+        "primary_dark_300": -616130,
+        "primary_dark_400": -7828334,
+        "primary_dark_800": 385875968,
+        "uikit_settings_item_text_color_dark": -616130
+    },
+    "drawable_tints": {
+        "ic_thread": -4097981,
+        "ic_sidebar_notifications_on_dark_24dp": -4097981,
+        "ic_sidebar_notifications_off_dark_24dp": -4097981,
+        "ic_sidebar_pins_off_dark_24dp": -4096957,
+        "ic_sidebar_pins_on_dark_24dp": -4097981,
+        "ic_sidebar_search_24dp": -4096957
+    },
+    "raws": {}
+}
